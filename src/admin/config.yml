@@ -5,8 +5,6 @@ backend:
 media_folder: "src/posts/img"
 public_folder: ""
 
-publish_mode: editorial_workflow
-
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
@@ -20,5 +18,4 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "thumb", widget: "image"}
       - {label: "Tags", name: "tags", widget: "list"}
-      - {label: “Save as Draft”, name: “draft”,  widget: “boolean”, default: true}
       - {label: "Post Body", name: "body", widget: "markdown"}  
