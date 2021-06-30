@@ -21,4 +21,5 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Image", name: "thumb", widget: "image"}
       - {label: "Tags", name: "tags", widget: "list"}
+      - {label: “Save as Draft”, name: “draft”,  widget: “boolean”, default: true}
       - {label: "Post Body", name: "body", widget: "markdown"}  
