@@ -3,7 +3,9 @@ title: "Getting Started with Traveling Ultralight"
 description: "Start by getting a small backpack and then just travel with what fits in that"
 date: 2020-04-23T19:00
 thumb: "traveling-kuy.jpg"
-tags: popular
+tags: 
+- popular
+- outdoors
 ---
 
 I’m on a trip at the moment, and a friend who generously let me sleep on his couch looked at my small travel backpack and commented on how little I travel with: “That’s impressive,” he said.
